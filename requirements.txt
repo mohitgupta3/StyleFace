@@ -1,0 +1,6 @@
+tensorflow-gpu==1.14
+python-dotenv
+flask
+numpy
+pillow
+requests
