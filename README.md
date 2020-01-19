@@ -10,4 +10,4 @@ We use NVIDIAs StyleGAN_v2 architecture to generate and alter faces. However thi
 * On Windows, you need to use TensorFlow 1.14, TensorFlow 1.15 or higher versions may not work.
 * One or more high-end NVIDIA GPUs, NVIDIA drivers, CUDA 10.0 toolkit and cuDNN 7.5. To reproduce the results reported in the paper, you need an NVIDIA GPU with at least 16 GB of DRAM.
 
-NOTE: Pretrained weights will soon be uploaded and shared via *OneDrive
+NOTE: Pretrained weights will soon be uploaded and shared via OneDrive
