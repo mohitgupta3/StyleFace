@@ -1,5 +1,5 @@
 # StyleFace
-This project is a web application to generate and alter faces using Generative adversarial networks.
+This project is a web application to generate and alter faces _(optionally other objects)_ using Generative adversarial networks.
 We use NVIDIAs StyleGAN_v2 architecture to generate and alter faces. However this project is more focused on removal of *bouble artifacts* which were usually generated on images generated with earlier models. 
 
 ## Requirements
