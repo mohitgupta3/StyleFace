@@ -13,6 +13,6 @@ We use NVIDIAs StyleGAN_v2 architecture to generate and alter faces. However thi
 ## Sample results
 StyleFace can transform a source image into an output image reflecting the style (e.g., hairstyle and makeup) of a given reference image.
 
-<p align="left"><img width="99%" src="assets/celeba_hq_teaser_video.gif" /></p>
+<p align="left"><img width="99%" src="assets/img2img_translation.gif" /></p>
 
 NOTE: Pretrained weights will soon be uploaded and shared via OneDrive
