@@ -1,0 +1,12 @@
+cache
+__pycache__
+**/__pycache__
+results
+.suo
+.vs
+node_modules
+#dist/*.bundle.js
+yarn.lock
+example.png
+*.local
+#documents
