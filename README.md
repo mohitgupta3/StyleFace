@@ -34,5 +34,3 @@ You can download pre-trained weights from [this](https://1drv.ms/u/s!AuH-tUAwy-x
 StyleFace can transform a source image into an output image reflecting the style (e.g., hairstyle and makeup) of a given reference image.
 
 <p align="left"><img width="99%" src="assets/img2img_translation.gif" /></p>
-
-NOTE: Pretrained weights will soon be uploaded and shared via OneDrive
