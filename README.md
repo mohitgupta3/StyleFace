@@ -5,7 +5,7 @@ We use NVIDIAs StyleGAN_v2 architecture to generate and alter faces. However thi
 #### NOTE: This project is in the final stages of development. All files will be finalized and uploaded soon.
 
 ## Requirements
-
+* You need _python 3.6+_ to run this project.
 * Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
 * 64-bit Python 3.6 installation. It is recommended to use Anaconda3 with numpy 1.14 or newer.
 * TensorFlow 1.14 or 1.15 with GPU support. The code does not support TensorFlow 2.0 yet...
