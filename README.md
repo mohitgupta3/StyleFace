@@ -1,3 +1,9 @@
+![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
+![TensorFlow 1.14.0](https://img.shields.io/badge/tensorflow-1.14-green.svg?style=plastic)
+![CUDA Toolkit 10.0](https://img.shields.io/badge/cuda_toolkit-10.0-green.svg?style=plastic)
+![cuDNN 7.6.5](https://img.shields.io/badge/cudnn-7.6.5-green.svg?style=plastic)
+![License AGPLv3](https://img.shields.io/badge/license-AGPLv3-green.svg?style=plastic)
+
 # StyleFace
 This project is a web application to generate and alter faces _(optionally other objects)_ using Generative adversarial networks.
 We use NVIDIAs StyleGAN_v2 architecture to generate and alter faces. However this project is more focused on removal of *bouble artifacts* which were usually generated on images generated with earlier models. 
