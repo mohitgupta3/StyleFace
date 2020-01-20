@@ -19,7 +19,7 @@ We use NVIDIAs StyleGAN_v2 architecture to generate and alter faces. However thi
 * One or more high-end NVIDIA GPUs, NVIDIA drivers, CUDA 10.0 toolkit and cuDNN 7.5. To reproduce the results reported in the paper, you need an NVIDIA GPU with at least 16 GB of DRAM.
 
 ## Library dependency
-You can get a virtual environment file [this](https://drive.google.com/uc?export=download&id=1lbB4mSu8gkYKKBZmTepDOz2J1c-Yz_3o) Google Drive link. You will need to ask the author for the password.<br>[mohit.gupta2jly@gmail.com](mailto:mohit.gupta2jly@gmail.com) <br> 
+You can get a virtual environment file from [this](https://drive.google.com/uc?export=download&id=1lbB4mSu8gkYKKBZmTepDOz2J1c-Yz_3o) Google Drive link. You will need to ask the author for the password.<br>[mohit.gupta2jly@gmail.com](mailto:mohit.gupta2jly@gmail.com) <br> 
 Extract the RAR file in the root directory and, type in your console:
 ```
   styleEnv\Scripts\activate
@@ -28,7 +28,7 @@ and press enter. Now you can run the project from this activated environment. <b
 Alternatively, you can run _install_dependencies.py_ file, it will automatically install all dependencies.
 
 ## Pretrained weights
-You can download pre-trained weights [this](https://1drv.ms/u/s!AuH-tUAwy-xChrA5ZgHPbjk1nJUH_Q?e=2Wa6HZ) OneDrive link. You will need to ask the author for the password. <br>This will download a ~10.1GB file. Extract it in the 'models' directory.
+You can download pre-trained weights from [this](https://1drv.ms/u/s!AuH-tUAwy-xChrA5ZgHPbjk1nJUH_Q?e=2Wa6HZ) OneDrive link. You will need to ask the author for the password. <br>This will download a ~10.1GB file. Extract it in the 'models' directory.
 
 ## Sample results
 StyleFace can transform a source image into an output image reflecting the style (e.g., hairstyle and makeup) of a given reference image.
